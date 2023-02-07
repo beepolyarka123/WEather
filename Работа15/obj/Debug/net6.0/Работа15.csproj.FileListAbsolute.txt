@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Работа15\bin\Debug\net6.0\Работа15.exe
+C:\Users\user\Desktop\Работа15\bin\Debug\net6.0\Работа15.deps.json
+C:\Users\user\Desktop\Работа15\bin\Debug\net6.0\Работа15.runtimeconfig.json
+C:\Users\user\Desktop\Работа15\bin\Debug\net6.0\Работа15.dll
+C:\Users\user\Desktop\Работа15\bin\Debug\net6.0\Работа15.pdb
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.AssemblyInfo.cs
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.dll
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\refint\Работа15.dll
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.pdb
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\Работа15.genruntimeconfig.cache
+C:\Users\user\Desktop\Работа15\obj\Debug\net6.0\ref\Работа15.dll
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\bin\Debug\net6.0\Работа15.exe
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\bin\Debug\net6.0\Работа15.deps.json
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\bin\Debug\net6.0\Работа15.runtimeconfig.json
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\bin\Debug\net6.0\Работа15.dll
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\bin\Debug\net6.0\Работа15.pdb
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.AssemblyInfo.cs
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.dll
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\refint\Работа15.dll
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.pdb
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\Работа15.genruntimeconfig.cache
+C:\Users\user\Desktop\Поляруш Олег НЕ УДАЛЯТЬ!!!\Работа15\obj\Debug\net6.0\ref\Работа15.dll
